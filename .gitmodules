@@ -1,0 +1,555 @@
+[submodule "ces"]
+	path = ces
+	url = https://github.com/unimorph/ces.git
+[submodule "pol"]
+	path = pol
+	url = https://github.com/unimorph/pol.git
+[submodule "wmt"]
+	path = wmt
+	url = https://github.com/unimorph/wmt.git
+[submodule "pbs"]
+	path = pbs
+	url = https://github.com/unimorph/pbs.git
+[submodule "kca"]
+	path = kca
+	url = https://github.com/unimorph/kca.git
+[submodule "ckb"]
+	path = ckb
+	url = https://github.com/unimorph/ckb.git
+[submodule "rus"]
+	path = rus
+	url = https://github.com/unimorph/rus.git
+[submodule "fin"]
+	path = fin
+	url = https://github.com/unimorph/fin.git
+[submodule "sjo"]
+	path = sjo
+	url = https://github.com/unimorph/sjo.git
+[submodule "eng"]
+	path = eng
+	url = https://github.com/unimorph/eng.git
+[submodule "kat"]
+	path = kat
+	url = https://github.com/unimorph/kat.git
+[submodule "bre"]
+	path = bre
+	url = https://github.com/unimorph/bre.git
+[submodule "dan"]
+	path = dan
+	url = https://github.com/unimorph/dan.git
+[submodule "amh"]
+	path = amh
+	url = https://github.com/unimorph/amh.git
+[submodule "xno"]
+	path = xno
+	url = https://github.com/unimorph/xno.git
+[submodule "xcl"]
+	path = xcl
+	url = https://github.com/unimorph/xcl.git
+[submodule "tur"]
+	path = tur
+	url = https://github.com/unimorph/tur.git
+[submodule "sqi"]
+	path = sqi
+	url = https://github.com/unimorph/sqi.git
+[submodule "spa"]
+	path = spa
+	url = https://github.com/unimorph/spa.git
+[submodule "sme"]
+	path = sme
+	url = https://github.com/unimorph/sme.git
+[submodule "nld"]
+	path = nld
+	url = https://github.com/unimorph/nld.git
+[submodule "nap"]
+	path = nap
+	url = https://github.com/unimorph/nap.git
+[submodule "mlt"]
+	path = mlt
+	url = https://github.com/unimorph/mlt.git
+[submodule "mkd"]
+	path = mkd
+	url = https://github.com/unimorph/mkd.git
+[submodule "lld"]
+	path = lld
+	url = https://github.com/unimorph/lld.git
+[submodule "liv"]
+	path = liv
+	url = https://github.com/unimorph/liv.git
+[submodule "lit"]
+	path = lit
+	url = https://github.com/unimorph/lit.git
+[submodule "lav"]
+	path = lav
+	url = https://github.com/unimorph/lav.git
+[submodule "klr"]
+	path = klr
+	url = https://github.com/unimorph/klr.git
+[submodule "kjh"]
+	path = kjh
+	url = https://github.com/unimorph/kjh.git
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/unimorph/kbd.git
+[submodule "kaz"]
+	path = kaz
+	url = https://github.com/unimorph/kaz.git
+[submodule "gle"]
+	path = gle
+	url = https://github.com/unimorph/gle.git
+[submodule "gmh"]
+	path = gmh
+	url = https://github.com/unimorph/gmh.git
+[submodule "gml"]
+	path = gml
+	url = https://github.com/unimorph/gml.git
+[submodule "got"]
+	path = got
+	url = https://github.com/unimorph/got.git
+[submodule "grc"]
+	path = grc
+	url = https://github.com/unimorph/grc.git
+[submodule "hye"]
+	path = hye
+	url = https://github.com/unimorph/hye.git
+[submodule "isl"]
+	path = isl
+	url = https://github.com/unimorph/isl.git
+[submodule "ita"]
+	path = ita
+	url = https://github.com/unimorph/ita.git
+[submodule "izh"]
+	path = izh
+	url = https://github.com/unimorph/izh.git
+[submodule "kal"]
+	path = kal
+	url = https://github.com/unimorph/kal.git
+[submodule "gal"]
+	path = gal
+	url = https://github.com/unimorph/gal.git
+[submodule "fur"]
+	path = fur
+	url = https://github.com/unimorph/fur.git
+[submodule "frr"]
+	path = frr
+	url = https://github.com/unimorph/frr.git
+[submodule "frm"]
+	path = frm
+	url = https://github.com/unimorph/frm.git
+[submodule "fao"]
+	path = fao
+	url = https://github.com/unimorph/fao.git
+[submodule "est"]
+	path = est
+	url = https://github.com/unimorph/est.git
+[submodule "dsb"]
+	path = dsb
+	url = https://github.com/unimorph/dsb.git
+[submodule "deu"]
+	path = deu
+	url = https://github.com/unimorph/deu.git
+[submodule "csb"]
+	path = csb
+	url = https://github.com/unimorph/csb.git
+[submodule "crh"]
+	path = crh
+	url = https://github.com/unimorph/crh.git
+[submodule "cor"]
+	path = cor
+	url = https://github.com/unimorph/cor.git
+[submodule "cat"]
+	path = cat
+	url = https://github.com/unimorph/cat.git
+[submodule "bul"]
+	path = bul
+	url = https://github.com/unimorph/bul.git
+[submodule "bel"]
+	path = bel
+	url = https://github.com/unimorph/bel.git
+[submodule "bak"]
+	path = bak
+	url = https://github.com/unimorph/bak.git
+[submodule "aze"]
+	path = aze
+	url = https://github.com/unimorph/aze.git
+[submodule "ast"]
+	path = ast
+	url = https://github.com/unimorph/ast.git
+[submodule "ady"]
+	path = ady
+	url = https://github.com/unimorph/ady.git
+[submodule "afr"]
+	path = afr
+	url = https://github.com/unimorph/afr.git
+[submodule "eus"]
+	path = eus
+	url = https://github.com/unimorph/eus.git
+[submodule "hun"]
+	path = hun
+	url = https://github.com/unimorph/hun.git
+[submodule "fra"]
+	path = fra
+	url = https://github.com/unimorph/fra.git
+[submodule "heb"]
+	path = heb
+	url = https://github.com/unimorph/heb.git
+[submodule "vep"]
+	path = vep
+	url = https://github.com/unimorph/vep.git
+[submodule "olo"]
+	path = olo
+	url = https://github.com/unimorph/olo.git
+[submodule "lud"]
+	path = lud
+	url = https://github.com/unimorph/lud.git
+[submodule "krl"]
+	path = krl
+	url = https://github.com/unimorph/krl.git
+[submodule "nya"]
+	path = nya
+	url = https://github.com/unimorph/nya.git
+[submodule "kod"]
+	path = kod
+	url = https://github.com/unimorph/kod.git
+[submodule "kir"]
+	path = kir
+	url = https://github.com/unimorph/kir.git
+[submodule "itl"]
+	path = itl
+	url = https://github.com/unimorph/itl.git
+[submodule "ind"]
+	path = ind
+	url = https://github.com/unimorph/ind.git
+[submodule "dak"]
+	path = dak
+	url = https://github.com/unimorph/dak.git
+[submodule "cly"]
+	path = cly
+	url = https://github.com/unimorph/cly.git
+[submodule "arz"]
+	path = arz
+	url = https://github.com/unimorph/arz.git
+[submodule "afb"]
+	path = afb
+	url = https://github.com/unimorph/afb.git
+[submodule "nob"]
+	path = nob
+	url = https://github.com/unimorph/nob.git
+[submodule "ukr"]
+	path = ukr
+	url = https://github.com/unimorph/ukr.git
+[submodule "khk"]
+	path = khk
+	url = https://github.com/unimorph/khk.git
+[submodule "hsi"]
+	path = hsi
+	url = https://github.com/unimorph/hsi.git
+[submodule "nds"]
+	path = nds
+	url = https://github.com/unimorph/nds.git
+[submodule "ron"]
+	path = ron
+	url = https://github.com/unimorph/ron.git
+[submodule "por"]
+	path = por
+	url = https://github.com/unimorph/por.git
+[submodule "swe"]
+	path = swe
+	url = https://github.com/unimorph/swe.git
+[submodule "lat"]
+	path = lat
+	url = https://github.com/unimorph/lat.git
+[submodule "hbs"]
+	path = hbs
+	url = https://github.com/unimorph/hbs.git
+[submodule "gla"]
+	path = gla
+	url = https://github.com/unimorph/gla.git
+[submodule "guj"]
+	path = guj
+	url = https://github.com/unimorph/guj.git
+[submodule "evn"]
+	path = evn
+	url = https://github.com/unimorph/evn.git
+[submodule "mag"]
+	path = mag
+	url = https://github.com/unimorph/mag.git
+[submodule "slp"]
+	path = slp
+	url = https://github.com/unimorph/slp.git
+[submodule "nav"]
+	path = nav
+	url = https://github.com/unimorph/nav.git
+[submodule "epo"]
+	path = epo
+	url = https://github.com/unimorph/epo.git
+[submodule "slk"]
+	path = slk
+	url = https://github.com/unimorph/slk.git
+[submodule "non"]
+	path = non
+	url = https://github.com/unimorph/non.git
+[submodule "goh"]
+	path = goh
+	url = https://github.com/unimorph/goh.git
+[submodule "asm"]
+	path = asm
+	url = https://github.com/unimorph/asm.git
+[submodule "ang"]
+	path = ang
+	url = https://github.com/unimorph/ang.git
+[submodule "san"]
+	path = san
+	url = https://github.com/unimorph/san.git
+[submodule "ckt"]
+	path = ckt
+	url = https://github.com/unimorph/ckt.git
+[submodule "oss"]
+	path = oss
+	url = https://github.com/unimorph/oss.git
+[submodule "hsb"]
+	path = hsb
+	url = https://github.com/unimorph/hsb.git
+[submodule "ket"]
+	path = ket
+	url = https://github.com/unimorph/ket.git
+[submodule "kor"]
+	path = kor
+	url = https://github.com/unimorph/kor.git
+[submodule "sdh"]
+	path = sdh
+	url = https://github.com/unimorph/sdh.git
+[submodule "syc"]
+	path = syc
+	url = https://github.com/unimorph/syc.git
+[submodule "ood"]
+	path = ood
+	url = https://github.com/unimorph/ood.git
+[submodule "uzb"]
+	path = uzb
+	url = https://github.com/unimorph/uzb.git
+[submodule "uig"]
+	path = uig
+	url = https://github.com/unimorph/uig.git
+[submodule "tyv"]
+	path = tyv
+	url = https://github.com/unimorph/tyv.git
+[submodule "ail"]
+	path = ail
+	url = https://github.com/unimorph/ail.git
+[submodule "dje"]
+	path = dje
+	url = https://github.com/unimorph/dje.git
+[submodule "shp"]
+	path = shp
+	url = https://github.com/unimorph/shp.git
+[submodule "see"]
+	path = see
+	url = https://github.com/unimorph/see.git
+[submodule "gsw"]
+	path = gsw
+	url = https://github.com/unimorph/gsw.git
+[submodule "bra"]
+	path = bra
+	url = https://github.com/unimorph/bra.git
+[submodule "gup"]
+	path = gup
+	url = https://github.com/unimorph/gup.git
+[submodule "cni"]
+	path = cni
+	url = https://github.com/unimorph/cni.git
+[submodule "ame"]
+	path = ame
+	url = https://github.com/unimorph/ame.git
+[submodule "orm"]
+	path = orm
+	url = https://github.com/unimorph/orm.git
+[submodule "vro"]
+	path = vro
+	url = https://github.com/unimorph/vro.git
+[submodule "mon"]
+	path = mon
+	url = https://github.com/unimorph/mon.git
+[submodule "pnb"]
+	path = pnb
+	url = https://github.com/unimorph/pnb.git
+[submodule "gaa"]
+	path = gaa
+	url = https://github.com/unimorph/gaa.git
+[submodule "mwf"]
+	path = mwf
+	url = https://github.com/unimorph/mwf.git
+[submodule "aka"]
+	path = aka
+	url = https://github.com/unimorph/aka.git
+[submodule "zul"]
+	path = zul
+	url = https://github.com/unimorph/zul.git
+[submodule "swc"]
+	path = swc
+	url = https://github.com/unimorph/swc.git
+[submodule "sot"]
+	path = sot
+	url = https://github.com/unimorph/sot.git
+[submodule "lin"]
+	path = lin
+	url = https://github.com/unimorph/lin.git
+[submodule "lug"]
+	path = lug
+	url = https://github.com/unimorph/lug.git
+[submodule "kon"]
+	path = kon
+	url = https://github.com/unimorph/kon.git
+[submodule "sna"]
+	path = sna
+	url = https://github.com/unimorph/sna.git
+[submodule "mlg"]
+	path = mlg
+	url = https://github.com/unimorph/mlg.git
+[submodule "mao"]
+	path = mao
+	url = https://github.com/unimorph/mao.git
+[submodule "ceb"]
+	path = ceb
+	url = https://github.com/unimorph/ceb.git
+[submodule "hil"]
+	path = hil
+	url = https://github.com/unimorph/hil.git
+[submodule "tgl"]
+	path = tgl
+	url = https://github.com/unimorph/tgl.git
+[submodule "aym"]
+	path = aym
+	url = https://github.com/unimorph/aym.git
+[submodule "sah"]
+	path = sah
+	url = https://github.com/unimorph/sah.git
+[submodule "ara"]
+	path = ara
+	url = https://github.com/unimorph/ara.git
+[submodule "zpv"]
+	path = zpv
+	url = https://github.com/unimorph/zpv.git
+[submodule "czn"]
+	path = czn
+	url = https://github.com/unimorph/czn.git
+[submodule "ctp"]
+	path = ctp
+	url = https://github.com/unimorph/ctp.git
+[submodule "otm"]
+	path = otm
+	url = https://github.com/unimorph/otm.git
+[submodule "ote"]
+	path = ote
+	url = https://github.com/unimorph/ote.git
+[submodule "xty"]
+	path = xty
+	url = https://github.com/unimorph/xty.git
+[submodule "cpa"]
+	path = cpa
+	url = https://github.com/unimorph/cpa.git
+[submodule "pei"]
+	path = pei
+	url = https://github.com/unimorph/pei.git
+[submodule "azg"]
+	path = azg
+	url = https://github.com/unimorph/azg.git
+[submodule "pib"]
+	path = pib
+	url = https://github.com/unimorph/pib.git
+[submodule "grn"]
+	path = grn
+	url = https://github.com/unimorph/grn.git
+[submodule "pqm"]
+	path = pqm
+	url = https://github.com/unimorph/pqm.git
+[submodule "cre"]
+	path = cre
+	url = https://github.com/unimorph/cre.git
+[submodule "bod"]
+	path = bod
+	url = https://github.com/unimorph/bod.git
+[submodule "ell"]
+	path = ell
+	url = https://github.com/unimorph/ell.git
+[submodule "que"]
+	path = que
+	url = https://github.com/unimorph/que.git
+[submodule "fas"]
+	path = fas
+	url = https://github.com/unimorph/fas.git
+[submodule "pus"]
+	path = pus
+	url = https://github.com/unimorph/pus.git
+[submodule "osx"]
+	path = osx
+	url = https://github.com/unimorph/osx.git
+[submodule "sga"]
+	path = sga
+	url = https://github.com/unimorph/sga.git
+[submodule "fro"]
+	path = fro
+	url = https://github.com/unimorph/fro.git
+[submodule "chu"]
+	path = chu
+	url = https://github.com/unimorph/chu.git
+[submodule "nno"]
+	path = nno
+	url = https://github.com/unimorph/nno.git
+[submodule "arn"]
+	path = arn
+	url = https://github.com/unimorph/arn.git
+[submodule "glv"]
+	path = glv
+	url = https://github.com/unimorph/glv.git
+[submodule "kan"]
+	path = kan
+	url = https://github.com/unimorph/kan.git
+[submodule "hin"]
+	path = hin
+	url = https://github.com/unimorph/hin.git
+[submodule "hai"]
+	path = hai
+	url = https://github.com/unimorph/hai.git
+[submodule "ben"]
+	path = ben
+	url = https://github.com/unimorph/ben.git
+[submodule "tuk"]
+	path = tuk
+	url = https://github.com/unimorph/tuk.git
+[submodule "yid"]
+	path = yid
+	url = https://github.com/unimorph/yid.git
+[submodule "fry"]
+	path = fry
+	url = https://github.com/unimorph/fry.git
+[submodule "vot"]
+	path = vot
+	url = https://github.com/unimorph/vot.git
+[submodule "vec"]
+	path = vec
+	url = https://github.com/unimorph/vec.git
+[submodule "tel"]
+	path = tel
+	url = https://github.com/unimorph/tel.git
+[submodule "tat"]
+	path = tat
+	url = https://github.com/unimorph/tat.git
+[submodule "tgk"]
+	path = tgk
+	url = https://github.com/unimorph/tgk.git
+[submodule "oci"]
+	path = oci
+	url = https://github.com/unimorph/oci.git
+[submodule "kmr"]
+	path = kmr
+	url = https://github.com/unimorph/kmr.git
+[submodule "slv"]
+	path = slv
+	url = https://github.com/unimorph/slv.git
+[submodule "urd"]
+	path = urd
+	url = https://github.com/unimorph/urd.git
+[submodule "cym"]
+	path = cym
+	url = https://github.com/unimorph/cym.git
